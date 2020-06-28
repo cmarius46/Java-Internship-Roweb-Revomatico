@@ -1,5 +1,4 @@
 # Java-Internship-Roweb-Revomatico
-Java internship problem solution - C++
 
 Proiectul contine rezolvarea problemei propuse, in limbajul C++.
 
